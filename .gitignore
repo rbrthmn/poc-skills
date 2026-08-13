@@ -1,0 +1,6 @@
+# Files staged for removal. The Cowork device bridge cannot delete files, so
+# anything meant to be deleted is moved here and removed manually later.
+_to_delete/
+
+# macOS
+.DS_Store
